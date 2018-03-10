@@ -1,0 +1,15 @@
+
+.classpath
+*.bin
+*.lock
+.gradle/*
+gradle/*
+bin/*
+build/*
+*.prefs
+.springBeans
+settings.gradle
+gradlew.bat
+gradlew
+.project
+derby.log
